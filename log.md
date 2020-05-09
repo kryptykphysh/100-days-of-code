@@ -11,3 +11,4 @@ ElasticBeanstalk wouldn't have been my first preference for deploying an applica
 
 **Link to work:**
 Repo: [cod-chargen](https://github.com/kryptykphysh/cod-chargen/commit/7a70630364e1c729bb02fe0ceba08538692ed79a)
+[Deployed App](http://cod-chargenapp.eba-mg6mp4sx.eu-west-1.elasticbeanstalk.com/)
