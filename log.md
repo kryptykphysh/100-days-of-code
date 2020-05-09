@@ -5,8 +5,9 @@
 **Today's Progress**:
 - Caught up on changes in Rails 6.
 - Deployed a basic ElasticBeanstalk framework using CodeStar.
-- Cleaned up template code to meet Rubocop standards
-- Added custom domain to application stack
+- Cleaned up template code to meet Rubocop standards.
+- Added custom domain to application stack.
+- OMG! CodeBuild Y U Use old bundler version? Fixed.
 
 **Thoughts:**
 ElasticBeanstalk wouldn't have been my first preference for deploying an application to AWS. Mostly, I've used FarGate services in the past, but I can always change it down the line. The Gemfile for their template app is really out of date, so first port of call will be bringing it in to line with the latest Rails version (6.0.3 at time of writing).
