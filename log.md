@@ -5,10 +5,12 @@
 **Today's Progress**:
 - Caught up on changes in Rails 6.
 - Deployed a basic ElasticBeanstalk framework using CodeStar.
+- Cleaned up template code to meet Rubocop standards
+- Added custom domain to application stack
 
 **Thoughts:**
 ElasticBeanstalk wouldn't have been my first preference for deploying an application to AWS. Mostly, I've used FarGate services in the past, but I can always change it down the line. The Gemfile for their template app is really out of date, so first port of call will be bringing it in to line with the latest Rails version (6.0.3 at time of writing).
 
 **Link to work:**
 Repo: [cod-chargen](https://github.com/kryptykphysh/cod-chargen/commit/7a70630364e1c729bb02fe0ceba08538692ed79a)
-[Deployed App](http://cod-chargenapp.eba-mg6mp4sx.eu-west-1.elasticbeanstalk.com/)
+[Deployed App](http://cod-chargen.kryptykphysh.uk)
